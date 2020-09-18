@@ -1,4 +1,4 @@
-# flutter_ar
+# Flutter AR project
 
 A new Flutter project.
 
